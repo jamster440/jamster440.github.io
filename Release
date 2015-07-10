@@ -1,0 +1,8 @@
+Origin: jamster440 Public Repository
+Label: jamster440 Public Repo
+Suite: stable
+Version: 0.1
+Codename: ios
+Architectures: iphoneod-arm
+Components: main
+Description: jamster440 Public Example Repo

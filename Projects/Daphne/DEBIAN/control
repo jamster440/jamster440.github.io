@@ -1,0 +1,9 @@
+Package: com.jamster440.gator
+Name: Gator
+Depends: winterboard
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A beta for my first official Cydia theme.
+Maintainer: James Bateman <jamesbateman6@me.com>
+Author: James Bateman <jamesbateman6@me.com>
+Section: Themes (SpringBoard)
